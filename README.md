@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hnsanthosh
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning wordpress schema and seo adndrid development.
+- 🌱 I’m currently learning wordpress schema and seo android development.
 - 💞️ I’m looking to collaborate on developers for freelancing. 
 - 📫 you reach me hnsanth@gmail.com
 
